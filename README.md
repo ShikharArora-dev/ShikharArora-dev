@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Java Script
 - 💞️ I’m looking to collaborate on a Web Development Freelance organistion that provides the clients with web development solutions
-- 📫 To reach me mail me on -shikhar.arora211@gmail.com 
+- 📫 To reach me mail me on shikhar.arora211@gmail.com 
 - 😄 Pronouns: He 
 - ⚡ Fun fact: Recent studies show that around 70% of coding jobs have nothing to do with technology at all
 - I am 13 years old _
