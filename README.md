@@ -5,7 +5,7 @@
 - 📫 To reach me mail me on shikhar.arora211@gmail.com 
 - 😄 Pronouns: He 
 - ⚡ Fun fact: Recent studies show that around 70% of coding jobs have nothing to do with technology at all
-- I am 13 years old _
+  
 
 <!---
 ShikharArora-dev/ShikharArora-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
